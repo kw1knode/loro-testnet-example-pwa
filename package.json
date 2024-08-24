@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@nodeify-apps/nodeify-test-app-2",
+  "name": "@nodeify-apps/nodeify-test",
   "version": "0.1.42",
   "repository": "https://github.com/kw1knode/loro-testnet-example-pwa",
   "scripts": {
